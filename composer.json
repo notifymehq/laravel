@@ -22,7 +22,7 @@
         "graham-campbell/manager": "~2.0",
         "illuminate/contracts": "~5.0",
         "illuminate/support": "~5.0",
-        "notifymehq/notifyme": "~1.0"
+        "notifymehq/notifyme": "dev-legacy"
     },
     "require-dev": {
         "graham-campbell/testbench": "~3.0",
